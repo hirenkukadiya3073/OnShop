@@ -5,5 +5,4 @@
     android:minHeight="150dp"
     android:id="@+id/imageSlide"
     android:scaleType="centerCrop">
-
 </ImageView>
