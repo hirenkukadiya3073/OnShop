@@ -15,7 +15,6 @@ An Android mobile application that allows users to browse a list of products, vi
 
 - **Firebase Integration**  
   - Real-time database for storing product data and cart information.
-  - User authentication for a personalized shopping experience.
 
 ## Screenshots
 
@@ -41,10 +40,3 @@ An Android mobile application that allows users to browse a list of products, vi
 - Android Studio 
 - Android SDK version 21 or higher
 - Firebase account for database setup
-
-## Setup Instructions
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/username/onlineshopping-app.git
-   cd onlineshopping-app
